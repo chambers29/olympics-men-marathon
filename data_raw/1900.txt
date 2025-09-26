@@ -1,0 +1,30 @@
+Rank
+Team
+Participant
+Results
+Notes
+G
+FRA
+FRA
+Michel THEATO
+02:59:45.000
+S
+FRA
+FRA
+Emile CHAMPION
+03:04:17.000
+B
+SWE
+SWE
+Ernst FAST
+03:37:14.000
+4
+FRA
+FRA
+Eugene BESSE
+04:00:43.000
+5
+USA
+USA
+Arthur NEWTON
+04:04:12.000

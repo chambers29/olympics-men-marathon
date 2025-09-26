@@ -1,0 +1,20 @@
+Rank
+Team
+Participant
+Results
+Notes
+G
+GRE
+GRE
+Spyridon LOUIS
+02:58:50.000
+S
+GRE
+GRE
+Kharilaos VASILAKOS
+03:06:03.000
+B
+HUN
+HUN
+Gyula KELLNER
+03:06:35.000
