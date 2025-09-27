@@ -1,5 +1,5 @@
 # Olympics Marathon Results 1896–2024
-Historical dataset of men's Olympic marathon results (1896–2024) with visualizations.
+Historical dataset of men's Olympic marathon results (1896–2024), manually compiled from official sources, with visualizations.
 
 ## Project structure
 - `data_raw/` – original text files with raw marathon results  
@@ -34,3 +34,4 @@ The olympics_results.csv is already included in this repository. If you want to 
 ```bash
 jupyter notebook notebooks/create_clean_data.ipynb
 ```
+
