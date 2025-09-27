@@ -20,12 +20,17 @@ Historical dataset of men's Olympic marathon results (1896–2024) with visualiz
 - Jupyter Notebook  
 
 ## How to run
+
+### 1. Install required packages
 ```bash
-# 1. Install required packages
 pip install -r requirements.txt
-
-# 2. Run the data cleaning notebook to generate the clean dataset
-jupyter notebook notebooks/create_clean_data.ipynb
-
-# 3. Run the analysis and visualization notebook
+```
+### 2. Run the and visualization notebook
+```bash
 jupyter notebook notebooks/olympics.ipynb
+```
+### Note
+The olympics_results.csv is already included in this repository. If you want to generate a clean dataset by yourself, run the create_clean_data.ipynb notebook first.
+```bash
+jupyter notebook notebooks/create_clean_data.ipynb
+```
