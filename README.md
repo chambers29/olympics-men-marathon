@@ -18,7 +18,8 @@ Historical dataset of men's Olympic marathon results (1896–2024), manually com
 
 ## Technologies
 - Python 3.12  
-- pandas  
+- pandas
+- numpy  
 - matplotlib  
 - Jupyter Notebook  
 
@@ -37,6 +38,7 @@ jupyter notebook notebooks/create_clean_data.ipynb
 ```bash
 jupyter notebook notebooks/olympics.ipynb
 ```
+
 
 
 
