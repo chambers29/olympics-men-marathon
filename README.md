@@ -29,8 +29,8 @@ Historical dataset of men's Olympic marathon results (1896–2024), manually com
 ```bash
 pip install -r requirements.txt
 ```
-#### Note
-The olympics_results.csv is already included in this repository. If you want to generate a clean dataset by yourself, run the create_clean_data.ipynb notebook first.
+
+> The olympics_results.csv is already included in this repository. If you want to generate a clean dataset by yourself, run the create_clean_data.ipynb notebook first:
 ```bash
 jupyter notebook notebooks/create_clean_data.ipynb
 ```
@@ -38,6 +38,7 @@ jupyter notebook notebooks/create_clean_data.ipynb
 ```bash
 jupyter notebook notebooks/olympics.ipynb
 ```
+
 
 
 
