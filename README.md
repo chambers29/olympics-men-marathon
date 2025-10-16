@@ -13,7 +13,7 @@ Historical dataset of men's Olympic marathon results (1896–2024), manually com
 - [charts/](charts/) – saved plots and visualizations  
 - [olympics.pdf](olympics.pdf) – final report with charts
 
-## Example chart with highlighted polish athletes
+## Example chart
 ![Olympic Marathon Times](charts/olympics_PL.png)
 
 ## Technologies
