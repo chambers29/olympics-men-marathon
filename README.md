@@ -8,8 +8,8 @@ Historical dataset of men's Olympic marathon results (1896–2024), manually com
 - [data_raw/](data_raw/) – original text files with raw marathon results  
 - [data_clean/](data_clean/) – cleaned CSV datasets ready for analysis  
 - [notebooks/](notebooks/) – Jupyter notebooks:
-  - [create_clean_data.ipynb](create_clean_data.ipynb) – combines and cleans raw TXT files into a single CSV dataset  
-  - [olympics.ipynb](olympics.ipynb) – analysis and visualization of the cleaned dataset  
+  - [create_clean_data.ipynb](notebooks/create_clean_data.ipynb) – combines and cleans raw TXT files into a single CSV dataset  
+  - [olympics.ipynb](notebooks/olympics.ipynb) – analysis and visualization of the cleaned dataset  
 - [charts/](charts/) – saved plots and visualizations  
 - [olympics.pdf](olympics.pdf) – final report with charts
 
@@ -39,6 +39,7 @@ jupyter notebook notebooks/create_clean_data.ipynb
 ```bash
 jupyter notebook notebooks/olympics.ipynb
 ```
+
 
 
 
